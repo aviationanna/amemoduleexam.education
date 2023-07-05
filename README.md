@@ -3,7 +3,7 @@ aircraft systems for ame
 <!DOCTYPE html>
 <html>
 <head>
-  <title>MCQ Questions</title>
+  <title>aircraft systems for ame</title>
   <script>
     // Function to validate login credentials
     function validateLogin() {
